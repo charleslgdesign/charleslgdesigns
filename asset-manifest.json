@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/charleslgdesigns/static/css/main.a5f19a32.css",
+    "main.js": "/charleslgdesigns/static/js/main.f763571d.js",
+    "static/js/453.ed4eebc7.chunk.js": "/charleslgdesigns/static/js/453.ed4eebc7.chunk.js",
+    "index.html": "/charleslgdesigns/index.html",
+    "main.a5f19a32.css.map": "/charleslgdesigns/static/css/main.a5f19a32.css.map",
+    "main.f763571d.js.map": "/charleslgdesigns/static/js/main.f763571d.js.map",
+    "453.ed4eebc7.chunk.js.map": "/charleslgdesigns/static/js/453.ed4eebc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f19a32.css",
+    "static/js/main.f763571d.js"
+  ]
+}
