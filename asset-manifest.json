@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/charleslgdesigns/static/css/main.a5f19a32.css",
-    "main.js": "/charleslgdesigns/static/js/main.f763571d.js",
+    "main.js": "/charleslgdesigns/static/js/main.8f4e47e6.js",
     "static/js/453.ed4eebc7.chunk.js": "/charleslgdesigns/static/js/453.ed4eebc7.chunk.js",
+    "static/media/i-wear-mac-paris-carpark.png": "/charleslgdesigns/static/media/i-wear-mac-paris-carpark.754fa39f9a7d9c26ec41.png",
+    "static/media/i-wear-mac-84-mulberry-st.png": "/charleslgdesigns/static/media/i-wear-mac-84-mulberry-st.e2dbbac06215cfa51014.png",
+    "static/media/studio-fix-male-hero.png": "/charleslgdesigns/static/media/studio-fix-male-hero.653f7a981b697884605f.png",
+    "static/media/studio-fix-female-hero.png": "/charleslgdesigns/static/media/studio-fix-female-hero.e3b1845c47f6de3436bc.png",
     "index.html": "/charleslgdesigns/index.html",
     "main.a5f19a32.css.map": "/charleslgdesigns/static/css/main.a5f19a32.css.map",
-    "main.f763571d.js.map": "/charleslgdesigns/static/js/main.f763571d.js.map",
+    "main.8f4e47e6.js.map": "/charleslgdesigns/static/js/main.8f4e47e6.js.map",
     "453.ed4eebc7.chunk.js.map": "/charleslgdesigns/static/js/453.ed4eebc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5f19a32.css",
-    "static/js/main.f763571d.js"
+    "static/js/main.8f4e47e6.js"
   ]
 }
